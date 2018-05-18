@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cherry Sky\n"
+"POT-Creation-Date: 2018-03-22 17:19+0900\n"
+"PO-Revision-Date: 2018-03-22 17:20+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:5
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページは見つかりません。"
+
+#: archive.php:18 comments.php:16 comments.php:31 index.php:12 search.php:17
+msgid "Previous"
+msgstr "前"
+
+#: archive.php:19 comments.php:17 comments.php:32 index.php:13 search.php:18
+msgid "Next"
+msgstr "次"
+
+#: comments.php:9 tpl-parts/content.php:71
+msgid "No Comments"
+msgstr "コメントなし"
+
+#: comments.php:10 tpl-parts/content.php:72
+msgid "1 Comments"
+msgstr "1 つのコメント"
+
+#: comments.php:11 tpl-parts/content.php:73
+msgid "% Comments"
+msgstr "% 件のコメント"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:56
+msgid "Widget Area"
+msgstr "ウィジェットエリア"
+
+#: functions.php:58
+msgid "Add widgets here to appear in your sidebar."
+msgstr "サイドバーに表示するウィジェットをここに追加してください。"
+
+#: functions.php:182
+msgid "Modified on"
+msgstr "更新日時"
+
+#: functions.php:184
+msgid "Created on"
+msgstr "作成日時"
+
+#: inc/toc.php:15
+msgid "A TOC widget that generates table of contents using jQuery."
+msgstr ""
+
+#: inc/toc.php:26 inc/toc.php:65
+msgid "Table of Contents"
+msgstr "目次"
+
+#: inc/toc.php:70
+msgid "Title"
+msgstr "タイトル"
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: searchform.php:2
+msgid "Search..."
+msgstr "検索..."
+
+#: tpl-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "申し訳ございません、なにも見つかりませんでした"
+
+#: tpl-parts/content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"投稿を公開する準備ができていますか? <a href=\"%s\">こちら</a>から投稿を開始"
+"できます。"
+
+#: tpl-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"申し訳ありませんが、検索条件に一致するものはありませんでした。 別のキーワー"
+"ドでもう一度お試しください。"
+
+#: tpl-parts/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "申し訳ございません。お探しのページを見つけることができませんでした。"
+
+#: tpl-parts/content-recent.php:19 tpl-parts/content.php:81
+#, php-format
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: tpl-parts/content-recent.php:71
+#, php-format
+msgid "Update: %s"
+msgstr "更新日: %s"
+
+#: tpl-parts/content-recent.php:78
+#, php-format
+msgid "Publish: %s"
+msgstr "作成日：%s"
+
+#: tpl-parts/content.php:15
+msgid "Home"
+msgstr "トップページ"
+
+#: tpl-parts/content.php:62
+msgid "Publish"
+msgstr "作成日"
+
+#: tpl-parts/content.php:65
+msgid "Last Update"
+msgstr "最終更新日"
+
+#. Theme Name of the plugin/theme
+msgid "Cherry Sky"
+msgstr "桜の空"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/lhttjdr/cherry-sky"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple wordpress theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "lhttjdr"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lhttjdr.com"
+msgstr ""
